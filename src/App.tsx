@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="app bg-gray-20">
       <navbar />
+      <h1>El Gohary</h1>
     </div>
   );
 }
